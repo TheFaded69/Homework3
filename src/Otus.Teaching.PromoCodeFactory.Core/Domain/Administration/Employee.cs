@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Otus.Teaching.PromoCodeFactory.Core.Domain.Administration
+﻿namespace Otus.Teaching.PromoCodeFactory.Core.Domain.Administration
 {
     public class Employee
         : BaseEntity
